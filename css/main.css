@@ -1,0 +1,65 @@
+#nav {
+  background-color: rgb(151, 235, 162);
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+.header_top_left {
+  font-size: 24px;
+  letter-spacing: 0.7px;
+  color: azure;
+}
+
+.header_top_right {
+  margin-left: 90%;
+  text-align: center;
+  font-size: 34px;
+  border: rgb(151, 235, 162);
+}
+
+#usd {
+  font-size: 18px;
+  background-color: rgb(151, 235, 162);
+  color: white;
+}
+
+#english {
+  font-size: 18px;
+  background-color: rgb(151, 235, 162);
+  color: white;
+}
+
+.logos {
+  font-size: 21px;
+  color: dimgrey;
+}
+.logos a {
+  gap: 0 50px 0 50px;
+}
+
+a {
+  text-decoration: none;
+  color: dimgray;
+  font-size: 21px;
+}
+
+.fa-solid.fa-phone {
+  font-size: 30px;
+  color: rgb(85, 146, 79);
+}
+
+.header_middle {
+  margin-top: 30px;
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+}
+
+.container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}/*# sourceMappingURL=main.css.map */
